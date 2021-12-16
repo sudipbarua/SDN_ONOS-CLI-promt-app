@@ -1,5 +1,5 @@
 # SDN_ONOS-CLI-promt-app
-The objective of this application is to provide a CLI interface for collecting data from a SDN network.
+This application collects and views 4 different information from ONOS controller for software defined network requesting json data, taking commands as inputs-
 
 1. When "topology" is written as a input in the prompt, the app returns the information regarding the Clusters, links and devices.
 2. When "device1" or "device2" is entered, it returns the present status of the device, uptime, chassisID, vendor name, HW and SW version, serial no and protocol used
